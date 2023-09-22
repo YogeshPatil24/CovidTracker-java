@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorGray0">#FBFAFA</color>
+    <color name="colorGray1">#e4e4e4</color>
+    <color name="colorGray2">#CACACA</color>
+    <color name="colorGray3">#7B7A7A</color>
+    <color name="colorRed">#990C1C</color>
+    <color name="colorGreen">#009688</color>
+    <color name="colorTextPrimary">#000000</color>
+    <color name="colorTextSecondary">#000000</color>
+
+    <color name="confirmed">#FF0000</color>
+    <color name="active">#03A9F4</color>
+    <color name="mild">#7945D5</color>
+    <color name="critical">#FF0000</color>
+    <color name="recovered">#00FF00</color>
+    <color name="deaths">#FFFF00</color>
+    <color name="affectedCountries">#7945D5</color>
+
+    <color name="errorColor">#B71C1C</color>
+</resources>
